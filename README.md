@@ -1,2 +1,2 @@
 # gun-check-economics
-Investigating the impact of socio-economic status on number of firearms in states
+Exploratory data analysis (EDA) investigating the impact of socio-economic status on number of firearms in states
